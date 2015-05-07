@@ -1,0 +1,19 @@
+{
+  "name": "Club_Site",
+  "version": "0.0.0",
+  "authors": [
+    "manmon42 <manmon42@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#0.5",
+    "core-ajax": "Polymer/core-ajax#0.5"
+  }
+}
