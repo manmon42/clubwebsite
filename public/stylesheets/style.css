@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: 20;
+  text-align: center;
+  background:  url("../images/background_image.jpg") no-repeat;
+}
+
+a {
+  color: #00B7FF;
+}
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  margin: 0;:w
+}
+
+#center_marker{
+  width:960px /*centering the webpage*/
+}
